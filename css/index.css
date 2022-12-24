@@ -83,9 +83,10 @@ p {
 }
 
 .animation-about_me {
-  position: relative;
+  /*position: relative;
   left: 15%;
-  bottom: 10%;
+  bottom: 10%;*/
+  margin:auto;
 }
 
 /*-- Formação Académica Section --*/
@@ -150,8 +151,9 @@ p {
 }
 
 .animation-linguages {
-  position: relative;
-  left: 23%;
+  /*position: relative;
+  left: 23%;*/
+  margin:auto;
 }
 
 /*-- Footer --*/
