@@ -1,0 +1,127 @@
+/*-- ELEMENTOS --*/
+body {
+    font-family: "Montserrat", sans-serif;
+  }
+  
+  h1 {
+    font-family: "Sacramento", cursive;
+    font-size: 5rem;
+    line-height: 1.5;
+  }
+  
+  h2 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
+  }
+  
+  h3 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 900;
+    color: black;
+    font-size: 1.5rem;
+  }
+  
+  p {
+    color: #999999;
+  }
+  
+  /*-- Container --*/
+  .container-fluid {
+    padding: 3% 15%;
+  }
+  
+  /*-- Navigation Bar --*/
+  .navbar {
+    padding: 0 0 4.5rem;
+  }
+  
+  .navbar-brand {
+    font-family: "Ubuntu", sans-serif;
+    font-size: 2.5rem;
+    font-weight: 700;
+  }
+  
+  .nav-item {
+    padding: 0 18px;
+  }
+  
+  .nav-link {
+    font-size: 1.2rem;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 300;
+  }
+
+  /*-- Title Section --*/
+#title {
+    /*background-color: #50e3c2;*/
+    background: linear-gradient(to left, #50e3c2, #4ccba1);
+    color: #fff; /*#000 - preto*/
+  }
+  
+  .p_cor {
+    color: #fff;
+  }
+  
+  .title-image {
+    width: 60%;
+    position: relative;
+    left: 20%;
+    /*transform: rotate(25deg);*/
+  }
+
+/*-- Apresentation --*/
+
+#apresentation{
+    text-align: center;
+    padding: 3%;
+}
+
+.animations{
+    margin: auto;
+}
+
+.texts{
+    margin: auto;
+    text-align: center;
+}
+
+/*-- Technologies --*/
+#technologies{
+    background-color: #50e3c2;
+    text-align: center;
+    color: #fff;
+}
+
+.img_tech{
+    width: 80%;
+}
+
+/*-- Demonstration --*/
+#demonstration{
+    text-align: center;
+}
+
+/*-- Footer --*/
+#footer {
+    background-color: #50e3c2;
+    padding: 1.5%;
+    text-align: center;
+  }
+  
+  .link_footer {
+    color: #62b6b7;
+    font-family: "Montserrat", sans-serif;
+    text-decoration: none;
+    margin: 10px 20px;
+  }
+  
+  .link_footer:hover {
+    color: #eaf6f6;
+  }
+  
+  .author_footer {
+    margin-top: 20px;
+    color: #fff;
+  }
